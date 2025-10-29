@@ -1,0 +1,30 @@
+/*BEGIN PS4 White Controller Styling*/
+.controller.ds4.white {
+    background-image: url(lethalbase.png);
+}
+
+.ds4.white .trigger {
+    background-image: url(lethaltriggers.png);
+}
+
+.ds4.white .bumper {
+    background-image: url(lethalbumper.png);
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(lethalshare.png);
+}
+
+.ds4.white .button {
+    background-image: url(lethalbuttons.png);
+}
+
+.ds4.white .stick {
+    background-image: url(lethalsticks.png);
+}
+
+.ds4.white .face {
+    background-image: url(lethaldpad.png);
+}
+
+/*END PS4 White Controller Styling*/

@@ -74,7 +74,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(quadrant.png);
+    background: url(layer.png);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -261,5 +261,6 @@
 .xbox {
     background: no-repeat center;
 }
+
 
 /*END Xbox One Controller Styling*/

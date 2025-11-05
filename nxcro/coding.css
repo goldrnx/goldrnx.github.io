@@ -1,10 +1,14 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(nxcro.png);
+    background: url(base.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
         margin-top: -285px;*/
+}
+
+.xbox.white {
+    background: url(nxcro.png);
 }
 
 .xbox.disconnected {
@@ -259,4 +263,3 @@
 }
 
 /*END Xbox One Controller Styling*/
-

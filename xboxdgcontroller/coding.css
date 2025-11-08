@@ -185,7 +185,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(stick.png);
+    background: url(sticksdg.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -261,5 +261,6 @@
 .xbox {
     background: no-repeat center;
 }
+
 
 /*END Xbox One Controller Styling*/

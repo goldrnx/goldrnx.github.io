@@ -214,7 +214,7 @@
 }
 
 .xbox .face {
-    background: url(dpad.png);
+    background: url(d.png);
     position: absolute;
     opacity: 0;
 }
@@ -261,5 +261,6 @@
 .xbox {
     background: no-repeat center;
 }
+
 
 /*END Xbox One Controller Styling*/

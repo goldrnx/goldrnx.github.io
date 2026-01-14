@@ -1,6 +1,6 @@
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(base.png);
+    background-image: url(spikybadboy.png);
 }
 
 .ds4.white .trigger {
@@ -26,5 +26,6 @@
 .ds4.white .face {
     background-image: url(dpad.png);
 }
+
 
 /*END PS4 White Controller Styling*/

@@ -4,7 +4,7 @@ body {
     margin: 0 auto; 
     overflow: hidden; 
 } .controller.xbox{
-    background: url(hollow.png);
+    background: url(hollows.png);
     width: 807px;
     height: 651px;
     margin-left: 0;
@@ -120,4 +120,5 @@ body {
 } .xbox .trigger.right {
     background-position: -113px 0;
 	transform: rotateY(0);
+
 }

@@ -59,7 +59,7 @@ body {
 } .xbox .quadrant { 
     display: none; 
 } .xbox .back, .xbox .start {
-    background: url(hollow1.png);
+    background: url(hollow12.png);
     width: 27px;
     height: 57px;
     opacity: 0;
@@ -122,4 +122,5 @@ body {
 	transform: rotateY(0);
 
 }
+
 

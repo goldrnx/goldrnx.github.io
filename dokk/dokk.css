@@ -15,7 +15,7 @@ body {
     left: 220px;
     top: 333px;
 }.xbox .stick {
-    background: url(dokk60.png);
+    background: url(dokk6.png);
     width: 100px;
     height: 100px;
 } .xbox .stick.pressed {
@@ -122,3 +122,4 @@ body {
 	transform: rotateY(0);
 
 }
+

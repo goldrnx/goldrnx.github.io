@@ -1,0 +1,35 @@
+/*BEGIN PS4 White Controller Styling*/
+.controller.ds4.white {
+    background-image: url(layer00.png);
+}
+
+.ds4.white .trigger {
+    background-image: url(layer30.png);
+}
+
+.ds4.white .bumper {
+    background-image: url(layer50.png);
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(layer10.png);
+}
+
+.ds4.white .button {
+    background-image: url(layer760.png);
+}
+
+.ds4.white .stick {
+    background-image: url(layer20.png);
+}
+
+.ds4.white .face {
+    background-image: url(layer180.png);
+}
+
+
+/*END PS4 White Controller Styling*/
+
+
+
+
